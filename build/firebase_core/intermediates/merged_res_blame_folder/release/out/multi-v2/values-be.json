@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/firebase_core/intermediates/res/merged/release/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "201",
+                        "endColumns": "100",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values-be/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "141",
+                        "endOffsets": "336"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "145",
+                        "endOffsets": "196"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "201",
+                        "endColumns": "100",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values-be/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "141",
+                        "endOffsets": "336"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "145",
+                        "endOffsets": "196"
+                    }
+                }
+            ]
+        }
+    ]
+}
