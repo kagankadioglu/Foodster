@@ -9,3 +9,7 @@ The most important feature of the application is that it can randomly suggest re
 Users can also search for recipes from the database and specify which toppings are included or not.
 
 Users can also share their favorite recipes with their friends with the "Share" button.
+
+
+.
+<img width="1680" alt="Screen Shot 2022-05-18 at 21 47 22" src="https://user-images.githubusercontent.com/71544423/172361506-79ad1b7c-cb16-44b5-9026-afbd3aba874f.png">
