@@ -20,8 +20,13 @@ class HomeView extends StatelessWidget {
         builder: (context, homeProvider, child) {
           return Scaffold(
             appBar: AppBar(
-              backgroundColor: Colors.purple.shade300,
-              title: const Text('Foodster'),
+              leading: Padding(
+                padding: const EdgeInsets.all(10),
+                child: Image.asset('assets/diet.png'),
+              ),
+              backgroundColor: Colors.blue.shade50,
+              title: Text('Foodster', style: TextStyle(color: Colors.blue.shade300)),
+              centerTitle: true,
               actions: [
                 homeProvider.randomFood != null
                     ? IconButton(
@@ -36,17 +41,16 @@ class HomeView extends StatelessWidget {
             body: homeProvider.returnScreen(),
             bottomNavigationBar: BottomNavigationBar(
               type: BottomNavigationBarType.fixed,
-              backgroundColor: Colors.purple.shade300,
-              selectedItemColor: Colors.white,
-              unselectedItemColor: Colors.white.withOpacity(.60),
+              backgroundColor: Colors.blue.shade50,
+              selectedItemColor: Colors.blue.shade300,
+              unselectedItemColor: Colors.blue.shade100,
               selectedFontSize: 14,
               unselectedFontSize: 14,
               onTap: (value) {
                 homeProvider.setCurrentIndex(value);
               },
               currentIndex: homeProvider.currentIndex,
-              // ignore: prefer_const_literals_to_create_immutables
-              items: [
+              items: const [
                 BottomNavigationBarItem(
                   label: 'Anasayfa',
                   icon: Icon(Icons.home),

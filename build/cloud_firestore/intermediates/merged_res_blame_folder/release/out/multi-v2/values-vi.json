@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/Kagan.Kadioglu/foodster_release/build/cloud_firestore/intermediates/incremental/mergeReleaseResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/values-vi/values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/cloud_firestore/intermediates/res/merged/release/values-vi/values-vi.xml",
+            "outputFile": "/Users/Kagan.Kadioglu/foodster_release/build/cloud_firestore/intermediates/res/merged/release/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/values-vi/values.xml",

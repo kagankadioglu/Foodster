@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml",
+            "outputFile": "/Users/Kagan.Kadioglu/foodster_release/build/path_provider_android/intermediates/res/merged/release/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-fi/values-fi.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/path_provider_android/intermediates/res/merged/release/values-fi/values-fi.xml",
+            "outputFile": "/Users/Kagan.Kadioglu/foodster_release/build/path_provider_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-fi/values-fi.xml",
             "map": [
                 {
                     "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-fi/values-fi.xml",

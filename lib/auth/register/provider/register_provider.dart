@@ -32,18 +32,16 @@ class RegisterProvider extends ChangeNotifier {
 
       await credential.user!.sendEmailVerification();
 
-      if (credential != null) {
-        var userRef = FirebaseFirestore.instance.collection('user').doc(credential.user!.uid);
+      var userRef = FirebaseFirestore.instance.collection('user').doc(credential.user!.uid);
 
-        await userRef.set({
-          'email': mailCtrl.text,
-          'name': nameCtrl.text,
-          'favorite': [],
-          'is_verified': false,
-        });
-        Navigator.pop(context);
-        setIsLoading(false);
-      }
+      await userRef.set({
+        'email': mailCtrl.text,
+        'name': nameCtrl.text,
+        'favorite': [],
+        'is_verified': false,
+      });
+      Navigator.pop(context);
+      setIsLoading(false);
     } else {
       print('ERROR');
     }

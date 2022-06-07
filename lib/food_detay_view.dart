@@ -13,7 +13,7 @@ class FoodDetailView extends StatelessWidget {
         child: SingleChildScrollView(
           child: Column(
             children: [
-              Container(
+              SizedBox(
                 width: MediaQuery.of(context).size.width,
                 height: MediaQuery.of(context).size.height * .3,
                 child: Stack(

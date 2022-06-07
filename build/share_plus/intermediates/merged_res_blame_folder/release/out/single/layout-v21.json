@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/share_plus/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/share_plus/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/share_plus/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/share_plus/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

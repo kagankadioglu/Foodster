@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

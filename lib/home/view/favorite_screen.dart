@@ -4,6 +4,7 @@ import 'package:foodster/base/base_view.dart';
 import 'package:foodster/food_detay_view.dart';
 import 'package:foodster/home/provider/favorite_provider.dart';
 import 'package:provider/provider.dart';
+import 'package:share_plus/share_plus.dart';
 
 class FavoriteScreen extends StatelessWidget {
   const FavoriteScreen({Key? key}) : super(key: key);
@@ -62,7 +63,7 @@ class FavoriteScreen extends StatelessWidget {
                               ),
                               SlidableAction(
                                 onPressed: (context) {
-                                  //!
+                                  Share.share(foodItem.data()['food_name'], subject: foodItem.data()['food_need']);
                                 },
                                 backgroundColor: const Color(0xFF21B7CA),
                                 foregroundColor: Colors.white,

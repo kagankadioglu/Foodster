@@ -26,7 +26,6 @@ class SearchScreen extends StatelessWidget {
                   },
                   decoration: InputDecoration(
                     labelText: 'Yemek ara',
-                    border: const OutlineInputBorder(),
                     prefixIcon: IconButton(
                         onPressed: () {
                           bottomSheet(context, _sp);
@@ -150,7 +149,7 @@ class SearchScreen extends StatelessWidget {
                               padding: const EdgeInsets.all(3),
                               child: Chip(
                                 label: Text(_sp.filterInList[index]),
-                                deleteIcon: Icon(Icons.clear),
+                                deleteIcon: const Icon(Icons.clear),
                                 onDeleted: () {
                                   setState(() {
                                     _sp.removeFilter(index);

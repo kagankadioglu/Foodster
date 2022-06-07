@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
       print('auth null');
       return false;
     } else {
-      print('auth true');
       await auth.reload();
       auth = FirebaseAuth.instance.currentUser;
       return auth!.emailVerified;
@@ -35,7 +34,16 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+
       theme: ThemeData(
+        useMaterial3: true,
+        inputDecorationTheme: InputDecorationTheme(
+          border: OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
+          focusedBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(10),
+            borderSide: BorderSide(color: Colors.blue.shade300, width: 2),
+          ),
+        ),
         primarySwatch: Colors.blue,
         textTheme: GoogleFonts.montserratTextTheme(),
         appBarTheme: const AppBarTheme(

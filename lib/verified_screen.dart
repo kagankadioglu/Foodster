@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:foodster/home/view/home_screen.dart';
 
 import 'home/view/home_view.dart';
 
@@ -55,13 +54,19 @@ class _VerifiedScreenState extends State<VerifiedScreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
-        children: [
+        children: const [
           Center(
             child: CircularProgressIndicator(),
           ),
+          SizedBox(height: 30),
           Center(
-            child: Text('Emil aktif ediliyor'),
-          ),
+              child: Text(
+            'Email aktif ediliyor',
+            style: TextStyle(
+              fontWeight: FontWeight.w300,
+              fontSize: 16,
+            ),
+          )),
         ],
       ),
     );

@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "458404734782-csg0ssbhfvrp11hkm6pfvqu965lmopah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodster",
+            "certificate_hash": "e55362eabddfc1d1348ebde1315655b0c4c0b843"
+          }
+        },
+        {
           "client_id": "458404734782-2v6m80ic241scemf0fdnvnab615lhh4f.apps.googleusercontent.com",
           "client_type": 3
         }

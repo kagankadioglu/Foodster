@@ -1,338 +1,362 @@
 [
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_standard_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable/notification_icon_background.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable/notification_tile_bg.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
         "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_page.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/ec20f7242759cfe0d6237ced59ef1a02/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_row.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/ec20f7242759cfe0d6237ced59ef1a02/browser-1.0.0/res/layout/browser_actions_context_menu_row.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/custom_dialog.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-v21/notification_action_background.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-v21_launch_background.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/drawable-v21/launch_background.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/drawable/launch_background.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable/notification_bg.xml"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/raw_keep.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/res/raw/keep.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout-v16/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_action.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
         "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/Kagan.Kadioglu/projects/foodster/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
-        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/layout-v21/notification_action.xml"
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_page.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/ec20f7242759cfe0d6237ced59ef1a02/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/menu_example_menu.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/menu/example_menu.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_browser_actions_context_menu_row.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/ec20f7242759cfe0d6237ced59ef1a02/browser-1.0.0/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/menu_example_menu2.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/850ef13ec2cd7a7ea527ff79a705c18a/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/850ef13ec2cd7a7ea527ff79a705c18a/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/850ef13ec2cd7a7ea527ff79a705c18a/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/raw_keep.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0f67b2d2737c37bf1274c8f8df4996b1/jetified-firebase-common-20.1.1/res/raw/keep.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/xml_flutter_share_file_paths.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/foodster_release/build/share_plus/intermediates/packaged_res/release/xml/flutter_share_file_paths.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/res/layout/notification_template_icon_group.xml"
     }
 ]

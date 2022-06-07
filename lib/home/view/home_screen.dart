@@ -27,64 +27,84 @@ class HomeScreen extends StatelessWidget {
                           width: 150,
                           height: 150,
                           alignment: Alignment.center,
-                          decoration: const BoxDecoration(
+                          decoration: BoxDecoration(
                             shape: BoxShape.circle,
-                            color: Colors.red,
+                            color: Colors.green.shade100,
                           ),
-                          child: const Text(
-                            'Foodste',
-                            textAlign: TextAlign.center,
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontSize: 20,
-                            ),
+                          child: Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              SizedBox(
+                                width: 50,
+                                height: 50,
+                                child: Image.asset('assets/diet.png'),
+                              ),
+                              const SizedBox(height: 10),
+                              Text(
+                                'Foodste',
+                                textAlign: TextAlign.center,
+                                style: TextStyle(
+                                  color: Colors.green.shade300,
+                                  fontSize: 20,
+                                ),
+                              ),
+                            ],
                           ),
                         ),
                       ),
                     ),
                   )
-                : Card(
-                    child: SingleChildScrollView(
-                      child: Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: Column(
-                          mainAxisSize: MainAxisSize.min,
-                          mainAxisAlignment: MainAxisAlignment.start,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              value.randomFood['food_name'],
-                              style: const TextStyle(
-                                fontSize: 30,
-                                fontWeight: FontWeight.bold,
+                : Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Card(
+                      elevation: 5,
+                      child: SingleChildScrollView(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                value.randomFood['food_name'],
+                                style: const TextStyle(
+                                  fontSize: 30,
+                                  fontWeight: FontWeight.bold,
+                                ),
                               ),
-                            ),
-                            Stack(
-                              children: [
-                                Image.network(value.randomFood['food_image']),
-                                Align(
-                                  alignment: Alignment.topRight,
-                                  child: Padding(
-                                    padding: const EdgeInsets.all(8.0),
-                                    child: IconButton(
-                                      onPressed: () {
-                                        value.addFavorite();
-                                      },
-                                      icon: Icon(
-                                        value.isFavorite ? Icons.favorite_sharp : Icons.favorite_border,
-                                        color: Colors.red,
-                                        size: 40,
+                              Stack(
+                                children: [
+                                  Card(
+                                    elevation: 5,
+                                    clipBehavior: Clip.antiAliasWithSaveLayer,
+                                    margin: EdgeInsets.zero,
+                                    child: Image.network(value.randomFood['food_image']),
+                                  ),
+                                  Align(
+                                    alignment: Alignment.topRight,
+                                    child: Padding(
+                                      padding: const EdgeInsets.all(8.0),
+                                      child: IconButton(
+                                        onPressed: () {
+                                          value.addFavorite();
+                                        },
+                                        icon: Icon(
+                                          value.isFavorite ? Icons.favorite_sharp : Icons.favorite_border,
+                                          color: Colors.red,
+                                          size: 40,
+                                        ),
                                       ),
                                     ),
                                   ),
-                                ),
-                              ],
-                            ),
-                            const SizedBox(height: 10),
-                            Text(value.randomFood['food_need']),
-                            const SizedBox(height: 10),
-                            Text(value.randomFood['food_description']),
-                          ],
+                                ],
+                              ),
+                              const SizedBox(height: 10),
+                              Text(value.randomFood['food_need']),
+                              const SizedBox(height: 10),
+                              Text(value.randomFood['food_description']),
+                            ],
+                          ),
                         ),
                       ),
                     ),

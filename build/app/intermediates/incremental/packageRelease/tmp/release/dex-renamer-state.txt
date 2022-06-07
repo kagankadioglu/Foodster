@@ -1,4 +1,4 @@
-#Sun May 15 23:31:19 TRT 2022
-base.0=/Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Sat May 21 21:56:14 TRT 2022
+base.0=/Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

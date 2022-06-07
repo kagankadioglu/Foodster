@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -110,8 +110,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/projects/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
+# End of content from /Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/proguard-files/proguard-android.txt-4.1.0
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
 # This is due to plugins (libraries) depending on the embedding (the program jar)
@@ -120,11 +120,13 @@
 # The android.** package is provided by the OS at runtime.
 -dontwarn android.**
 
-# End of content from /Users/Kagan.Kadioglu/projects/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/Kagan.Kadioglu/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class com.example.foodster.MainActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
 -keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
 -keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
@@ -133,10 +135,12 @@
 -keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class dev.fluttercommunity.plus.share.ShareFileProvider { <init>(); }
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from /Users/Kagan.Kadioglu/projects/foodster/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /Users/Kagan.Kadioglu/foodster_release/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/proguard.txt
 # Copyright (C) 2020 The Android Open Source Project
 #
@@ -311,6 +315,15 @@
 }
 
 # End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/8d5070e09ebb0b529b42a361dd04abb8/jetified-play-services-measurement-sdk-21.0.0/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/2791dd4c86ddc79eabd51101f24ba2c0/jetified-play-services-auth-base-18.0.1/proguard.txt
+# We keep all fields for every generated proto file as the runtime uses
+# reflection over them that ProGuard cannot detect. Without this keep
+# rule, fields may be removed that would cause runtime failures.
+-keepclassmembers class * extends com.google.android.gms.internal.auth.zzeq {
+  <fields>;
+}
+
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/2791dd4c86ddc79eabd51101f24ba2c0/jetified-play-services-auth-base-18.0.1/proguard.txt
 # The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/1c0769389455a4c14b7a50bc2530cb4a/jetified-play-services-base-18.0.1/proguard.txt
 # b/35135904 Ensure that proguard will not strip the mResultGuardian.
 -keepclassmembers class com.google.android.gms.common.api.internal.BasePendingResult {
@@ -423,6 +436,13 @@
 
 
 # End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/d303dc6bb1b59f5c94a63e6083442da7/jetified-firebase-components-17.0.0/proguard.txt
+-dontwarn com.google.firebase.components.Component$Instantiation
+-dontwarn com.google.firebase.components.Component$ComponentType
+
+-keep class * implements com.google.firebase.components.ComponentRegistrar
+
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/d303dc6bb1b59f5c94a63e6083442da7/jetified-firebase-components-17.0.0/proguard.txt
 # The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/5cf36af8c665794dec2262fc6fa16b40/coordinatorlayout-1.0.0/proguard.txt
 # Copyright (C) 2016 The Android Open Source Project
 #
@@ -448,7 +468,7 @@
 -keepattributes *Annotation*
 
 # End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/5cf36af8c665794dec2262fc6fa16b40/coordinatorlayout-1.0.0/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/proguard.txt
 # Never inline methods, but allow shrinking and obfuscation.
 -keepclassmembernames,allowobfuscation,allowshrinking class androidx.core.view.ViewCompat$Api* {
   <methods>;
@@ -462,9 +482,19 @@
 -keepclassmembernames,allowobfuscation,allowshrinking class androidx.core.os.UserHandleCompat$Api*Impl {
   <methods>;
 }
+-keepclassmembernames,allowobfuscation,allowshrinking class androidx.core.widget.EdgeEffectCompat$Api*Impl {
+  <methods>;
+}
 
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0fcc2619fc2d4a04b76c2cc8424c6b65/lifecycle-runtime-2.2.0/proguard.txt
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/3f6d9ef3b65bfee01861f2e5d3bab0bd/core-1.7.0/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0bd53d61454f05a360ed50c12e1c0f57/versionedparcelable-1.1.1/proguard.txt
+-keep class * implements androidx.versionedparcelable.VersionedParcelable
+-keep public class android.support.**Parcelizer { *; }
+-keep public class androidx.**Parcelizer { *; }
+-keep public class androidx.versionedparcelable.ParcelImpl
+
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0bd53d61454f05a360ed50c12e1c0f57/versionedparcelable-1.1.1/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/bfe836fbdf895e44b7f6ff7103bf792d/lifecycle-runtime-2.3.1/proguard.txt
 -keepattributes *Annotation*
 
 -keepclassmembers enum androidx.lifecycle.Lifecycle$Event {
@@ -483,8 +513,19 @@
 }
 
 # this rule is need to work properly when app is compiled with api 28, see b/142778206
+# Also this rule prevents registerIn from being inlined.
 -keepclassmembers class androidx.lifecycle.ReportFragment$LifecycleCallbacks { *; }
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0fcc2619fc2d4a04b76c2cc8424c6b65/lifecycle-runtime-2.2.0/proguard.txt
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/bfe836fbdf895e44b7f6ff7103bf792d/lifecycle-runtime-2.3.1/proguard.txt
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/fe7136c18bf90ce15610c08732e73d45/lifecycle-viewmodel-2.1.0/proguard.txt
+-keepclassmembers,allowobfuscation class * extends androidx.lifecycle.ViewModel {
+    <init>();
+}
+
+-keepclassmembers,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
+    <init>(android.app.Application);
+}
+
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/fe7136c18bf90ce15610c08732e73d45/lifecycle-viewmodel-2.1.0/proguard.txt
 # The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/8aaf6886d114b38b49bc161f6fefc2ae/jetified-savedstate-1.0.0/proguard.txt
 # Copyright (C) 2019 The Android Open Source Project
 #
@@ -505,31 +546,7 @@
 }
 
 # End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/8aaf6886d114b38b49bc161f6fefc2ae/jetified-savedstate-1.0.0/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/d303dc6bb1b59f5c94a63e6083442da7/jetified-firebase-components-17.0.0/proguard.txt
--dontwarn com.google.firebase.components.Component$Instantiation
--dontwarn com.google.firebase.components.Component$ComponentType
-
--keep class * implements com.google.firebase.components.ComponentRegistrar
-
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/d303dc6bb1b59f5c94a63e6083442da7/jetified-firebase-components-17.0.0/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0bd53d61454f05a360ed50c12e1c0f57/versionedparcelable-1.1.1/proguard.txt
--keep class * implements androidx.versionedparcelable.VersionedParcelable
--keep public class android.support.**Parcelizer { *; }
--keep public class androidx.**Parcelizer { *; }
--keep public class androidx.versionedparcelable.ParcelImpl
-
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/0bd53d61454f05a360ed50c12e1c0f57/versionedparcelable-1.1.1/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/fe7136c18bf90ce15610c08732e73d45/lifecycle-viewmodel-2.1.0/proguard.txt
--keepclassmembers,allowobfuscation class * extends androidx.lifecycle.ViewModel {
-    <init>();
-}
-
--keepclassmembers,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
-    <init>(android.app.Application);
-}
-
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/fe7136c18bf90ce15610c08732e73d45/lifecycle-viewmodel-2.1.0/proguard.txt
-# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/09696fb62f6f3052857bd43d5f20de8e/rules/lib/META-INF/proguard/androidx-annotations.pro
+# The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/7c6c4d81ab48feebefadb9b85dab13ae/rules/lib/META-INF/proguard/androidx-annotations.pro
 -keep,allowobfuscation @interface androidx.annotation.Keep
 -keep @androidx.annotation.Keep class * {*;}
 
@@ -549,7 +566,7 @@
   @androidx.annotation.DoNotInline <methods>;
 }
 
-# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/09696fb62f6f3052857bd43d5f20de8e/rules/lib/META-INF/proguard/androidx-annotations.pro
+# End of content from /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/7c6c4d81ab48feebefadb9b85dab13ae/rules/lib/META-INF/proguard/androidx-annotations.pro
 # The proguard configuration file for the following section is /Users/Kagan.Kadioglu/.gradle/caches/transforms-2/files-2.1/bb034e126f121bd1853821de7e6d9777/jetified-grpc-android-1.44.1/proguard.txt
 -keepclassmembers class io.grpc.okhttp.OkHttpChannelBuilder {
   io.grpc.okhttp.OkHttpChannelBuilder forTarget(java.lang.String);
