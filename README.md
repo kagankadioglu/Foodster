@@ -13,3 +13,6 @@ Users can also share their favorite recipes with their friends with the "Share" 
 
 .
 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/71544423/172363487-aeedc05d-a1d8-494b-bc7f-03a5188e06f5.png)
+
+
