@@ -11,7 +11,6 @@ Users can also search for recipes from the database and specify which toppings a
 Users can also share their favorite recipes with their friends with the "Share" button.
 
 
-.
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/71544423/172363487-aeedc05d-a1d8-494b-bc7f-03a5188e06f5.png)
 
